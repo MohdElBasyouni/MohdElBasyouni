@@ -54,3 +54,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdelbasyouni" alt="streak" />
 </p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdelbasyouni&show_icons=true&theme=transparent&cache_seconds=86400" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdelbasyouni&layout=compact&theme=transparent&cache_seconds=86400" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohdelbasyouni&theme=transparent" alt="streak" />
+</p>
