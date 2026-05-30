@@ -6,12 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=mohdelbasyouni&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophy.ryglcloud.net/?username=mohdelbasyouni&theme=algolia&margin-w=8&margin-h=8"
      alt="trophies" />
   </a>
-</p>
+</p> -->
 
 ## About Me
 
@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-red?style=for-the-badge)
+![DO](https://github.com/MikeCodesDotNET/ColoredBadges#)
 
 ## Tools & Platforms
 
