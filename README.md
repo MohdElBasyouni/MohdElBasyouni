@@ -23,9 +23,11 @@
 </a>
 
 <br>
+<p align="center">
 <div>
     <img src="./assets/about_mohamed.gif" alt="About Me Terminal GIF"/>
 </div>
+</p>
 <br>
 
 ## About Me
