@@ -23,7 +23,7 @@
 
 ## Core Skills
 
-![5G](https://img.shields.io/badge/5G-Networking-blue?style=for-the-badge)
+![5G](https://img.shields.io/badge/5G-Networking-blue)
 ![LTE](https://img.shields.io/badge/LTE-RAN-green?style=for-the-badge)
 ![O-RAN](https://img.shields.io/badge/O--RAN-SMO-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
