@@ -23,13 +23,13 @@
 
 ## Core Skills
 
-![5G](https://img.shields.io/badge/5G-Networking-blue)
-![LTE](https://img.shields.io/badge/LTE-RAN-green?style=for-the-badge)
-![O-RAN](https://img.shields.io/badge/O--RAN-SMO-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Analytics-red?style=for-the-badge)
-![DO](https://github.com/MikeCodesDotNET/ColoredBadges#)
+![5G](https://img.shields.io/badge/5G-Networking-blue?logo=overcast&logoColor=white)
+![LTE](https://img.shields.io/badge/LTE-RAN-green?logo=overcast&logoColor=white)
+![O-RAN](https://img.shields.io/badge/O--RAN-SMO-orange?logo=opentofu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-red?logo=postgresql&logoColor=white)
+![DO](https://img.shields.io/badge/DigitalOcean-Cloud-red?logo=digitalocean&logoColor=white)
 
 ## Tools & Platforms
 
